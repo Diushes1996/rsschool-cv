@@ -1,14 +1,14 @@
-## Кулинич Андрей Викторович
+## Andrew Kulinich
 
-## Контакты:
+## Contacts:
 
  *Telegram @diushes_dev*
 
-## Обо мне:
+## About me:
 
-> Спокойный, уравновешенный, исполнительный. Стремлюсь постоянно совершенствовать свои навыки. 
+> Calm, balanced, efficient. I strive to constantly improve my skills.
 
-## Мои навыки:
+## My skills:
 
 1. HMTL
 2. CSS
@@ -20,23 +20,25 @@
 8. GhatGPT
 9. REST API
 10. UI Libraries
-11. Английский В1
+11. English В1
 
-## Примеры кода:
-
-```
-console.log(1)
+## Code examples:
 
 ```
+function multiply(a, b){
+  return a * b
+}
 
-## Опыт работы:
+```
 
-> Имеется опыт работы Front-end разработчиком 3.5 года в области создания одностраничных рекламных сайтов по платформы Facebook и Google
+## Experience:
 
-## Образование:
+> I have 3.5 years of experience as a Front-end developer in the field of creating one-page advertising sites on the Facebook and Google platforms
 
-> Высшее БНТУ - Факультет информационных технологий и робототехники
+## Education:
 
-## Английский язык B1
+> Higher education BNTU - Faculty of Information Technologies and Robotics
 
-> Школа иностранных языков Streamline
+## English B1
+
+> Streamline Language School
