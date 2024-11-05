@@ -1,1 +1,1 @@
-[Link](https://Diushes1996.github.io/rsschool-cv/cv)
+[https://Diushes1996.github.io/rsschool-cv/cv]
